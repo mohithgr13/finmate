@@ -26,6 +26,8 @@ python app.py
 ```
 
 Open [http://localhost:5000](http://localhost:5000)
+deploy
+https://mohithgr13.github.io/finmate/
 
 ## Deployment
 
